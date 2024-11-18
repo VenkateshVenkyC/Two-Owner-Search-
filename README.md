@@ -163,22 +163,21 @@ Side-by-side comparison of liens filed during both owners' tenures.
 
 **3. Flowchart of Two-Owner Search Process**
 
-**Start > 
+**Start** > 
     Retrieve Records > 
           Review Deeds for Both Owners >   
                   Check Liens > 
                         Verify Taxes > End.
 
 
-4. Ownership History Table
+**4. Ownership History Table**
 | Owner       | Ownership Period | Key Issues Identified |
 |-------------|------------------|-------------------------------------|
 | Previous    | 2015–2020        | Unpaid tax lien from 2018.          | 
-| Current     | 2020–Present     | Mortgage filed, no additional issues.|
+| Current     | 2020–Present     | Mortgage filed, no additional 
+                                   issues.                             |
 
 ---
-
-### GitHub Readme File for Two-Owner Search
 
 # Two-Owner Search Guide for Florida, Arizona, and Colorado
 
