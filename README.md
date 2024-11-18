@@ -1,6 +1,6 @@
-# Two-Owner-Search-
-Two-owner search focuses on identifying and verifying the chain of ownership for the last two property owners.
-What is a **Two-Owner Search?**
+# Two-Owner-Search
+
+### What is a **Two-Owner Search?**
 
 **A two-owner search focuses on identifying and verifying the chain of ownership for the last two property owners. This search includes a review of property records, liens, encumbrances, and any issues that may have originated during both owners' tenure. It is commonly used in real estate transactions, particularly for older properties or when there is a higher likelihood of title issues.**
 
