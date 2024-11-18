@@ -174,8 +174,7 @@ Side-by-side comparison of liens filed during both owners' tenures.
 | Owner       | Ownership Period | Key Issues Identified |
 |-------------|------------------|-------------------------------------|
 | Previous    | 2015–2020        | Unpaid tax lien from 2018.          | 
-| Current     | 2020–Present     | Mortgage filed, no additional 
-                                   issues.                             |
+| Current     | 2020–Present     | Mortgage filed, no additional issues.|
 
 ---
 
